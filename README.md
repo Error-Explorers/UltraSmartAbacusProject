@@ -16,7 +16,7 @@ Our project is the culmination of countless hours of collaboration, innovation, 
 
 - **Bootstrap:** Thanks to Sarvesh's proficiency, our platform is responsive and adaptable, delivering a consistent user experience across devices of all sizes.
 
-- **SpringBoot & RestAPI:** Orchestrated by Adity, our backend infrastructure operates seamlessly, facilitating efficient data flow and robust communication between the front-end and backend.
+- **SpringBoot & RestAPI:** Orchestrated by Aditya, our backend infrastructure operates seamlessly, facilitating efficient data flow and robust communication between the front-end and backend.
 
 - **MySQL:** Managed by our team collectively, MySQL serves as the backbone of our platform's data management system, ensuring reliability and scalability.
 
@@ -28,7 +28,7 @@ Our project is the culmination of countless hours of collaboration, innovation, 
 
 **GitHub README Description:**
 
-Welcome to the Online Abacus Learning Platform repository, a testament to the dedication and hard work of our exceptional team members: Gaurav Rangne, Tanavi Kshirsagar, Ashish Wandhare, Sarvesh Pandilwar, and Adity Baraskar.
+Welcome to the Online Abacus Learning Platform repository, a testament to the dedication and hard work of our exceptional team members: Gaurav Rangne, Tanavi Kshirsagar, Ashish Wandhare, Sarvesh Pandilwar, and Aditya Baraskar.
 
 **Embarking on a Journey:**
 
