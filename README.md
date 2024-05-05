@@ -1,6 +1,6 @@
 # Ultra Smart Abacus Project
  **"Web-Based Learning Management System for Ultra Smart Abacus Teaching Institute."**
-Welcome to the Online Abacus Learning Platform repository, crafted with passion and expertise by our dedicated team members: Gaurav Rangne, Tanavi Kshirsagar, Ashish Wandhare, Sarvesh Pandilwar, and Adity Baraskar.
+Welcome to the Online Abacus Learning Platform repository, crafted with passion and expertise by our dedicated team members: Gaurav Rangne, Tanavi Kshirsagar, Ashish Wandhare, Sarvesh Pandilwar, and Aditya Baraskar.
 
 **Project Overview:**
 
