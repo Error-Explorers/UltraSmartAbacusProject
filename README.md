@@ -26,10 +26,6 @@ Our project is the culmination of countless hours of collaboration, innovation, 
 
 - **React.js:** Championed by our team, React.js introduces a dynamic Chat Application feature, fostering real-time communication and collaboration among users.
 
-**GitHub README Description:**
-
-Welcome to the Online Abacus Learning Platform repository, a testament to the dedication and hard work of our exceptional team members: Gaurav Rangne, Tanavi Kshirsagar, Ashish Wandhare, Sarvesh Pandilwar, and Aditya Baraskar.
-
 **Embarking on a Journey:**
 
 Our journey began with a shared vision—to revolutionize abacus education and empower learners of all ages to unlock their full potential. Fuelled by passion and guided by expertise, we embarked on a quest to create a dynamic and immersive learning platform that would transcend traditional boundaries and redefine the way we teach and learn.
