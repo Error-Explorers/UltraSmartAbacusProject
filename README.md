@@ -8,23 +8,15 @@ Our project is the culmination of countless hours of collaboration, innovation, 
 
 **Technologies Utilized:**
 
-- **Angular:** Spearheaded by Gaurav, our frontend interface boasts seamless navigation and intuitive design, providing students with an engaging learning experience.
-
-- **HTML5 & CSS3:** Under the meticulous eye of Tanavi, our platform's visual aesthetics are brought to life, ensuring a captivating and user-friendly interface.
-
-- **JavaScript:** Guided by Ashish's expertise, JavaScript breathes interactivity into our platform, enabling dynamic content updates and real-time interactions.
-
-- **Bootstrap:** Thanks to Sarvesh's proficiency, our platform is responsive and adaptable, delivering a consistent user experience across devices of all sizes.
-
-- **SpringBoot & RestAPI:** Orchestrated by Aditya, our backend infrastructure operates seamlessly, facilitating efficient data flow and robust communication between the front-end and backend.
-
-- **MySQL:** Managed by our team collectively, MySQL serves as the backbone of our platform's data management system, ensuring reliability and scalability.
-
-- **SMTP:** Implemented by our team, SMTP enables seamless communication between our platform and users, delivering timely notifications and updates.
-
-- **RazorPay:** Integrated by our team, RazorPay provides a secure and convenient payment gateway, enhancing the user experience for course enrollments and transactions.
-
-- **React.js:** Championed by our team, React.js introduces a dynamic Chat Application feature, fostering real-time communication and collaboration among users.
+- **Angular:**
+- **HTML5 & CSS3:**
+- **JavaScript:**
+- **Bootstrap:**
+- **SpringBoot & RestAPI:**
+- **MySQL:**
+- **SMTP:**
+- **RazorPay:**
+- **React.js:**
 
 **Embarking on a Journey:**
 
