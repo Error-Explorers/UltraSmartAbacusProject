@@ -8,15 +8,15 @@ Our project is the culmination of countless hours of collaboration, innovation, 
 
 **Technologies Utilized:**
 
-- **Angular:**
-- **HTML5 & CSS3:**
-- **JavaScript:**
-- **Bootstrap:**
-- **SpringBoot & RestAPI:**
-- **MySQL:**
-- **SMTP:**
-- **RazorPay:**
-- **React.js:**
+- **Angular**
+- **HTML5 & CSS3**
+- **JavaScript**
+- **Bootstrap**
+- **SpringBoot & RestAPI**
+- **MySQL**
+- **SMTP**
+- **RazorPay**
+- **React.js**
 
 **Embarking on a Journey:**
 
